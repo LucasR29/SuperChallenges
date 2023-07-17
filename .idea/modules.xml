@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChallengeFour/ChallengeFour.iml" filepath="$PROJECT_DIR$/ChallengeFour/ChallengeFour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeOne/ChallengeOne.iml" filepath="$PROJECT_DIR$/ChallengeOne/ChallengeOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeThree/ChallengeThree.iml" filepath="$PROJECT_DIR$/ChallengeThree/ChallengeThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeTwo/ChallengeTwo.iml" filepath="$PROJECT_DIR$/ChallengeTwo/ChallengeTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SuperaChallenges.iml" filepath="$PROJECT_DIR$/.idea/SuperaChallenges.iml" />
+    </modules>
+  </component>
+</project>
